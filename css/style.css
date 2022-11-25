@@ -120,6 +120,10 @@
 /* about  */
 /* skills */
 
+.skills {
+    margin-bottom: 110px;
+}
+
 .p_skills {
     text-align: center;
     font-family: 'Gilroy-Medium';
@@ -137,33 +141,22 @@
     align-items: flex-start;
 }
 
-.skill_blok{
-    text-align: center;  
+.skill_blok {
     display: flex;
     flex-direction: column;
-}
-
-.iiiii {
-    height: 80px;
+    text-align: center;
 }
 
 .p_icon {
-    margin: auto;
+    padding-top: 23px;
+    height: 80px;
     max-width: 80px;
-    width: 100%;
-    padding-top: 24px;
-    padding-bottom: 40px;
+    margin: auto;
     font-family: 'Gilroy-Bold';
     font-size: 14px;
     line-height: 17px;
     text-align: center;
     color: #828282;
 }
-
-.stars {
-    margin: auto 0 0 0 ;
-}
-
-
 
 
