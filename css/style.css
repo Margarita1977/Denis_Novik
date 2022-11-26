@@ -159,4 +159,72 @@
     color: #828282;
 }
 
+/* skills */
+/* portfolio */
+
+.portfolio {
+    background: #F6F6F6;
+    text-align: center;
+}
+
+.port_z {
+    margin-bottom: 47px;
+}
+
+.a_port {
+    display: block;
+    padding-top: 47px;
+    padding-bottom: 100px;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+/* portfolio */
+/* footer  */
+
+
+
+.p_foot {
+    margin: auto;
+    max-width: 275px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.button_footer {
+    display: block;
+    margin: auto;
+    padding: 13px 30px;
+    border-radius: 50px;
+    font-family: 'Gilroy-Bold';
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    background: #070707;
+    margin-bottom: 85px;
+}
+
+.link_foot {
+    display: flex;
+    justify-content: space-between;
+    max-width: 342px;
+    margin: auto;
+}
+
+.p__foot {
+    margin-top: 45px;
+    margin-bottom: 123px;
+    font-family: 'Gilroy-Medium';
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+}
 
